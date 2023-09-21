@@ -29,3 +29,15 @@
 #top svg{
   padding-right: 8px;
 }
+
+#second{
+  display: flex;
+  padding: 30px 127px;
+  justify-content: space-between;
+  align-items: center;
+}
+.antivirus{
+  display: flex;
+align-items: flex-start;
+gap: 32px;
+}
