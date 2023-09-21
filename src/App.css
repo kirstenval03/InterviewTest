@@ -131,13 +131,17 @@ gap: 40px;
 .image4{
 height: 591px;
 }
-
-.customer{
+.box{
   background-color: #FFF;
-  display: flex;
-  gap: 13px;
   height: 138px ;
   padding: 24px;
+  gap: 18px;
+  display: flex;
+  flex-direction: column;
+}
+.customer{
+  display: flex;
+  gap: 13px;
 }
 .customer img{
   width: 48px;

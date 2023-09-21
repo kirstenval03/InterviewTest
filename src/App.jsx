@@ -92,7 +92,7 @@ return (
 
       <div className='left'>
         <img src={image4} className='image4' />
-
+        <div className='box'>
         <div className='customer'>
 
         <img src={customer} />
@@ -120,8 +120,12 @@ return (
                 </defs>
               </svg>
               <p className='verification'>Verified Customer</p>
+              
+              
+              
 
             </div>
+          </div>
           </div>
           <p className='review'>
     As soon as the Clarifions arrived I put one in my bedroom. This was late in the afternoon. When I went to the bedroom in the evening it smelled clean. When I went to bed I felt I could breathe better. Wonderful.
