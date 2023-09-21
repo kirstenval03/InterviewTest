@@ -114,3 +114,89 @@ text-transform: capitalize;
 }
 
 
+#center{
+
+height: 879px;
+background-color: #FAFAFA;
+border-radius: 10px;
+padding: 40px;
+margin: 128px;
+display: flex;
+gap: 40px;
+}
+
+#left{
+  width: 575px;
+}
+.image4{
+height: 591px;
+}
+
+.customer{
+  background-color: #FFF;
+  display: flex;
+  gap: 13px;
+  height: 138px ;
+  padding: 24px;
+}
+.customer img{
+  width: 48px;
+height: 48px;
+}
+
+.customer2{
+gap: 13px;
+
+}
+
+.customer3{
+  display: flex;
+  gap: 13px;
+}
+.userName{
+color: #333;
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+}
+.verification{
+color: #5BB59A;
+font-family: Manrope;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%;
+}
+.review{
+color: #4D5254;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+}
+
+
+
+.text1{
+color: #000;
+font-family: Manrope;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+text-transform: capitalize;
+align-self: stretch;
+}
+
+.specialText1{
+  color: #2C7EF8;
+font-family: Manrope;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; 
+text-transform: capitalize;
+}
