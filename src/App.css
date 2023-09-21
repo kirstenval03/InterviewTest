@@ -66,3 +66,51 @@ font-style: normal;
 font-weight: 400;
 text-transform: capitalize;
 }
+
+#fourth{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 61px;
+}
+.step12{
+  display: flex;
+  align-items: center;
+  color: #000;
+  font-family: Manrope;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%; /* 22px */
+  text-transform: capitalize;
+  gap: 20px;
+}
+.step12 img{
+width: 40px;
+height: 40px;
+}
+
+.step3{
+color: #000;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 110%; /* 22px */
+text-transform: capitalize;
+display: flex;
+align-items: center;
+gap: 20px;
+}
+
+.step3 text{
+  color: #FFF;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 110%; /* 22px */
+text-transform: capitalize;
+}
+
+
