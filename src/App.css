@@ -132,6 +132,8 @@ gap: 40px;
 height: 591px;
 }
 .box{
+  width: 530px;
+  border-radius: 10px;
   background-color: #FFF;
   height: 138px ;
   padding: 24px;
