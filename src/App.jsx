@@ -131,7 +131,8 @@ function App() {
     </div>
 
     <div id="third">
-
+      <h1>Wait ! your order in progress.</h1>
+      <h2>Lorem ipsum dolor sit amet, consectetur adipiscing </h2>
     </div>
 
     <div id="fourth">
